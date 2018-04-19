@@ -15,7 +15,7 @@ int min_element(int *arr, int size)
 
     return min;
 }
-
+ 
 void print_array(int *arr, int size)
 {
     printf("Array: ");
